@@ -28,10 +28,10 @@ A simple Laravel application to manage books, authors, and categories. Users can
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/book-library.git
+git clone https://github.com/your-username/Book_Managment_System.git
 
 # 2. Navigate into the project
-cd book-library
+cd Book_Managment_System
 
 # 3. Install PHP dependencies
 composer install
